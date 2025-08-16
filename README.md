@@ -336,6 +336,6 @@ For support and questions:
 
 ## Workflow
 
-![Workflow](../../HLD_for_RAG_Chatbot.png)
+![Workflow](../../blob/main/HLD_for_RAG_Chatbot.png)
 
 Built with ❤️ using LangGraph, OpenAI, Chroma DB, and DeepEval
